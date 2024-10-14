@@ -1,7 +1,7 @@
 # ejercicio-codigo-ensamblador-MIPS
 Ejercicio que realice mediante el uso de subrutinas, interacción con el usuario y manejo de datos.
 
-codigo assembler en MARS.
+codigo assembly en MARS.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Pedir por teclado 3 numeros, que son los lados del triangulo.
 Usar una subrutina llamada areasq, para calcular el cuadrado del area de un triangulo. Luego que areasq pida los argumentos que necesita para resolverse
